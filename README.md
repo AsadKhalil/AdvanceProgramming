@@ -9,9 +9,7 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AsadKhalil/FaceMaskDetection/issues)
-[![Forks](https://img.shields.io/github/forks/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/network/members)
+![JAVA](https://img.shields.io/badge/Java-ED8B00.svg)
 [![Stargazers](https://img.shields.io/github/stars/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/stargazers)
 [![Issues](https://img.shields.io/github/issues/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/Face-Mask-Detection/issues)
 [![MIT License](https://img.shields.io/github/license/AsadKhalil/FaceMaskDetection.svg?style=flat-square)](https://github.com/AsadKhalil/FaceMaskDetection/Face-Mask-Detection/blob/master/LICENSE)
